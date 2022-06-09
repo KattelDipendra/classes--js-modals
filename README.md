@@ -1,1 +1,1 @@
-# classes--js-modals
+This is a practice in working with the classes , accessing the hidden content using javascript and event handling functionalities are included within it . key pressing functions are explained , u can easily understand in nepali explanatiion by viewing my code .
